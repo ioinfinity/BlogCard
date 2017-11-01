@@ -2,8 +2,8 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto:400,700);
 .news-date-card {
   position: absolute;
-  right: 1%;
-  top: 9%;
+  right: 3%;
+  top: 5%;
   height: 60px;
   width: 61px;
   content: "";
